@@ -1,0 +1,2 @@
+*.bwproject filter=lfs diff=lfs merge=lfs -text
+*.multisample filter=lfs diff=lfs merge=lfs -text
